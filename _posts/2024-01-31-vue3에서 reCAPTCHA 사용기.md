@@ -5,7 +5,7 @@ tags: [reCAPTCHA, vue3, VSCode, Spring, Maven, STS4]
 lastmode: 2024-01-31 16:06:00 
 sitemap:
   changefreq: weekly
-  priority:1.0
+  priority: 1.0
 ---
 
 시작해보자
